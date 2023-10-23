@@ -170,7 +170,7 @@ header ul{
     width: var(--width-mockup);
     background: 
         url(mockup.png)  0 0 no-repeat, 
-        url(/20231023_170742.png) var(--left) 0;
+        url(20231023_170742.png) var(--left) 0;
     background-size: auto 100%;
     background-blend-mode: multiply;
     -webkit-mask-image: 
